@@ -5,9 +5,9 @@
 
 ## Executive Profile
 
-I am a Cybersecurity Leader and Educator with over 20 years of experience in technology, and more than 15 years in executive technology leadership within Banking and Fintech environments.  
+I am a Cybersecurity Leader and Educator with over 20 years of experience in technology, and more than 15 years in technology leadership within Banking and Fintech environments.  
 
-My work focuses on aligning cybersecurity strategy with business resilience, regulatory compliance, and board-level risk governance. I specialize in translating complex technical risk into measurable business impact for executive decision-making.
+My work focuses on enabling and defending business steategy through cybersecurity strategy formulation and execution, regulatory compliance, and risk governance. I specialize in translating complex technical risk into measurable business impact for executive decision-making.
 
 ---
 
@@ -25,8 +25,8 @@ My work focuses on aligning cybersecurity strategy with business resilience, reg
 ## Professional Certifications
 
 - CISM – Certified Information Security Manager  
-- ISO/IEC 27001 Lead Auditor  
-- CEH – Certified Ethical Hacker  
+- Operational Risk Management  
+- Banking Regulatory Complinace Certification 
 - Additional industry-recognized credentials in cybersecurity and governance  
 
 ---
@@ -45,7 +45,7 @@ My work focuses on aligning cybersecurity strategy with business resilience, reg
 
 ### Digital Literacy
 
-A flagship initiative focused on advancing digital literacy and cybersecurity awareness to empower professionals, institutions, and emerging leaders in the digital economy.
+A flagship initiative focused on advancing digital literacy and cybersecurity awareness to empower rural folk, professionals, institutions, and emerging leaders in the digital security.
 
 This project supports:
 - Secure digital transformation
@@ -94,7 +94,7 @@ I contribute to academic and professional discussions on:
 
 - Cyber risk quantification  
 - Governance in financial institutions  
-- Digital resilience strategy  
+- Digital literacy & resilience strategy  
 - Secure technology leadership  
 
 (Speaking engagements and publications available upon request.)
