@@ -7,7 +7,7 @@
 
 I am a Cybersecurity Leader and Educator with over 20 years of experience in technology, and more than 15 years in technology leadership within Banking and Fintech environments.  
 
-My work focuses on enabling and defending business steategy through cybersecurity strategy formulation and execution, regulatory compliance, and risk governance. I specialize in translating complex technical risk into measurable business impact for executive decision-making.
+My work focuses on aligning cybersecurity strategy with business resilience, regulatory compliance, and board-level risk governance. I specialize in translating complex technical risk into measurable business impact for executive decision-making.
 
 ---
 
@@ -18,7 +18,7 @@ My work focuses on enabling and defending business steategy through cybersecurit
 - Governance, Risk & Compliance (GRC)  
 - Identity & Access Management (IAM)  
 - Board & Executive Cyber Reporting  
-- Technology Strategy & Digital Resilience  
+- Technology Strategy and Management  
 
 ---
 
@@ -26,14 +26,14 @@ My work focuses on enabling and defending business steategy through cybersecurit
 
 - CISM – Certified Information Security Manager  
 - Operational Risk Management  
-- Banking Regulatory Complinace Certification 
+- Banking Regulation and Compliance  
 - Additional industry-recognized credentials in cybersecurity and governance  
 
 ---
 
 ## Leadership Experience
 
-- 20+ years in technology and cybersecurity  
+- 20+ years in technology and cybersecurity management  
 - 15+ years in senior leadership roles  
 - Board-level cyber risk reporting and executive advisory  
 - Cyber strategy development for regulated financial institutions  
@@ -45,7 +45,7 @@ My work focuses on enabling and defending business steategy through cybersecurit
 
 ### Digital Literacy
 
-A flagship initiative focused on advancing digital literacy and cybersecurity awareness to empower rural folk, professionals, institutions, and emerging leaders in the digital security.
+A flagship initiative focused on advancing digital literacy and cybersecurity awareness to empower rural folk, professionals, institutions, and emerging leaders in the digital risks.
 
 This project supports:
 - Secure digital transformation
@@ -94,7 +94,7 @@ I contribute to academic and professional discussions on:
 
 - Cyber risk quantification  
 - Governance in financial institutions  
-- Digital literacy & resilience strategy  
+- Digital resilience strategy  
 - Secure technology leadership  
 
 (Speaking engagements and publications available upon request.)
@@ -107,4 +107,4 @@ For collaboration, research partnerships, or executive advisory engagements, fee
 
 ---
 
-> “Cybersecurity is not a technology problem. It is a Leadership and Risk Governance Discipline.”
+> “Cybersecurity is not a technology problem. It is a leadership and risk governance discipline.”
